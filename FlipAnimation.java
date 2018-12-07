@@ -1,4 +1,4 @@
-package com.hill.utility;
+package YOURPACKAGE;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
