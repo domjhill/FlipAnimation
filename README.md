@@ -1,6 +1,6 @@
 FlipAnimation was created specifically to achieve the following animation effect: 
 
-![](animationpreview.gif)
+![Animation preview](animationpreview.gif)
 
 
 ### Usage: ###
