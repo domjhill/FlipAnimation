@@ -1,6 +1,8 @@
-FlipAnimation was created specifically to achieve the following animation effect: 
-
+FlipAnimation was created for two reasons:
+1) To achieve the following animation effect: 
 ![Animation preview](animationpreview.gif)
+
+2) To only use a single ImageView, and not layer two or more on top of each other.
 
 
 ### Usage: ###
